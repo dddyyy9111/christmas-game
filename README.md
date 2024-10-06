@@ -8,17 +8,17 @@ Mint your Santa ERC-721, steal presents, and make it to the finish
 
 ## Gameplay
 <ul>
-  <li>Each player start with 100 mins</li>
-  <li>Player can move 1 space</li>
-  <li>Each movement costs 1 min</li>
+  <li>Each player start with 100 mins.</li>
+  <li>Player can move 1 space.</li>
+  <li>Each movement costs 1 min.</li>
   <li>
     If you land on a house space, you can mint a present token, which can cost (between 5-20 mins) to steal
-    that present
+    that present.
   </li>
-  <li>If you land on an event space, you might win or lose a present, or lose 10 mins</li>
-  <li>Each present you have increases your movement cost by 2 mins</li>
-  <li>Players must reach the finish line to claim the prizes</li>
-  <li>If a player's time is zero, they will lose all their presents</li>
+  <li>If you land on an event space, you might win or lose a present, or lose 10 mins.</li>
+  <li>Each present you have increases your movement cost by 2 mins.</li>
+  <li>Players must reach the finish line to claim the prizes.</li>
+  <li>If a player's time is zero, they will lose all their presents.</li>
 </ul>
 
 ## Requirements
