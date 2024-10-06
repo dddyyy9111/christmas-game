@@ -6,6 +6,8 @@ Get ready for a festive adventure with Santa Presents, an exciting onchain Chris
 
 Mint your Santa ERC-721, steal presents, and make it to the finish
 
+Deployed smart contract on neox test network- https://xt4scan.ngd.network/address/0xf11e245F2f0063cF0E9B591Ad7F919aE70434183
+
 ## Gameplay
 <ul>
   <li>Each player start with 100 mins.</li>
