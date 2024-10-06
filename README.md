@@ -1,7 +1,10 @@
 # Santa Presents
+
+Get ready for a festive adventure with Santa Presents, an exciting onchain Christmas game where strategy and luck come together! In this game, players mint their own Santa ERC-721 tokens and embark on a journey to collect as many presents as possible while racing to the finish line.
+
+![Screenshot 2024-10-06 212221](https://github.com/user-attachments/assets/1293fd6c-b4b5-4ccc-a8e2-39df85168fc8)
+
 Mint your Santa ERC-721, steal presents, and make it to the finish
-
-
 
 ## Gameplay
 <ul>
