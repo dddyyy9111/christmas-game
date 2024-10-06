@@ -1,0 +1,162 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root,
+[data-theme] {
+  background: hsl(var(--b2));
+}
+
+body {
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+p {
+  margin: 1rem 0;
+}
+
+.btn {
+  @apply shadow-md;
+}
+
+.btn.btn-ghost {
+  @apply shadow-none;
+}
+
+
+.grid-1 {
+  position: absolute;
+  top: 90px;
+  left: 10px;
+}
+
+.grid-2 {
+  position: absolute;
+  top: 90px;
+  left: 150px;
+}
+
+.grid-3 {
+  position: absolute;
+  top: 90px;
+  left: 300px;
+}
+
+.grid-4 {
+  position: absolute;
+  top: 90px;
+  left: 450px;
+}
+
+.grid-5 {
+  position: absolute;
+  top: 90px;
+  left: 600px;
+}
+
+.grid-6 {
+  position: absolute;
+  top: 90px;
+  left: 750px;
+}
+
+.grid-7 {
+  position: absolute;
+  top: 220px;
+  left: 750px;
+}
+
+.grid-8 {
+  position: absolute;
+  top: 350px;
+  left: 750px;
+}
+
+.grid-9 {
+  position: absolute;
+  top: 470px;
+  left: 750px;
+}
+
+.grid-10 {
+  position: absolute;
+  top: 470px;
+  left: 600px;
+}
+
+.grid-11 {
+  position: absolute;
+  top: 470px;
+  left: 450px;
+}
+
+.grid-12 {
+  position: absolute;
+  top: 470px;
+  left: 300px;
+}
+
+.grid-13 {
+  position: absolute;
+  top: 470px;
+  left: 150px;
+}
+
+.grid-14 {
+  position: absolute;
+  top: 470px;
+  left: 10px;
+}
+
+.house-1{
+  position: absolute;
+  top: 0;
+  left: 295px;
+}
+
+.house-2{
+  position: absolute;
+  top: 50px;
+  left: 810px;
+}
+
+.house-3{
+  position: absolute;
+  top: 420px;
+  left: 810px;
+}
+
+.house-4{
+  position: absolute;
+  top: 380px;
+  left: 445px;
+}
+
+.line-1{
+  position: absolute;
+  top: 95px;
+  left: 10px;
+}
+
+.line-2{
+  position: absolute;
+  top: 95px;
+  left: 755px;
+}
+
+.line-3{
+  position: absolute;
+  top: 475px;
+  left: 10px;
+}
+
+
+.zindex-10{ z-index: 10; }
